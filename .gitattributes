@@ -1,2 +1,2 @@
-person finder/yolov4.weights filter=lfs diff=lfs merge=lfs -text
+"person finder/yolov4.weights" filter=lfs diff=lfs merge=lfs -text
 *.weights filter=lfs diff=lfs merge=lfs -text
