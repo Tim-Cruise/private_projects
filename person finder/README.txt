@@ -1,0 +1,1 @@
+To use this class you have to download yolov4.weights
