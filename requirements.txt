@@ -1,0 +1,9 @@
+moviepy==1.0.3
+Pillow==8.2.0
+requests==2.25.1
+openai==0.11.0
+python-dotenv==0.15.0
+selenium==3.141.0
+selenium-stealth==1.0.6
+pyautogui==0.9.52
+aiohttp==3.7.4
